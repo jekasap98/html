@@ -1,12 +1,2 @@
-#<?php
-#echo 'Hello, World version NEW Script!';
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <title>Например</title>
-    <meta charset="utf-8">
-</head>
-<body>
-    <h1>Например</h1>
-</body>
-</html>
+<?php
+echo 'Hello, World version NEW Script!';
