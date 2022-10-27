@@ -1,2 +1,2 @@
 <?php
-echo 'Hello, World version 88!';
+echo 'Hello, World version NEW Script!';
